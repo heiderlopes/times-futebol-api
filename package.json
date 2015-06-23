@@ -1,0 +1,9 @@
+{
+  "name": "times-futebol-api",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.1.1",
+    "mongoose": "~4.0.6",
+    "body-parser": "~1.13.1"
+  }
+}
